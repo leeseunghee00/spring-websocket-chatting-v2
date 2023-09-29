@@ -11,6 +11,8 @@ import org.springframework.web.socket.handler.TextWebSocketHandler;
 import java.util.Map;
 import java.util.concurrent.ConcurrentHashMap;
 
+/* STOMP 사용 시 핸들러 주석 처리 후 실행 */
+
 @Slf4j
 public class WebSocketHandler extends TextWebSocketHandler {
 
