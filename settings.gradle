@@ -1,2 +1,5 @@
 rootProject.name = 'websocket'
 include 'spring-stomp'
+include 'spring-redis-pub'
+include 'spring-redis-sub'
+
